@@ -1,0 +1,10 @@
+ZIncrementX=-82.0
+ZIncrementY=-12.0
+XAxisCalIncrementX=-106.0
+XAxisCalIncrementY=-12.0
+XAxisCalDecrementX=-58.0
+XAxisCalDecrementY=-12.0
+YAxisCalDecrementX=-78.0
+YAxisCalDecrementY=15.0
+YAxisCalIncrementX=-78.0
+YAxisCalIncrementY=-37.0
